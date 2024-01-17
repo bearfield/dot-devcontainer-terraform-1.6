@@ -1,6 +1,6 @@
 {
-    "name": "terraform-1.5",
-    "image": "ghcr.io/bearfield/terraform:1.5",
+    "name": "terraform-1.6",
+    "image": "ghcr.io/bearfield/terraform:1.6",
     "remoteUser": "kumano_ryo",
     "mounts": [
         "source=${localEnv:HOME}/devcontainer_conf/.gitconfig_linux,target=/home/kumano_ryo/.gitconfig,type=bind,consistency=cached",
